@@ -1,0 +1,76 @@
+body{
+    background-color: #001c30
+    
+ }
+ body{
+     margin: 0;
+     padding: 0;
+}
+.one{
+    text-align: center;
+    margin-top: center;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(245, 255, 250)
+}
+.btn-btn1{
+    background-color: #176B87;
+}
+.btn-btn2{
+    background-color: #64ccc5;
+}
+.btn-btn3{
+background-color: #ff9eaa;
+}
+.btn-btn4{
+background-color: #dafffb;
+}
+.btn-btn5{
+    background-color: #ffd0d0;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+button{
+    cursor: pointer;
+    border-radius: .5em;
+    border: none;
+    padding: 1em 1em;
+    transition: .3s;
+    text-align: center;
+    width: 5em;
+}
+button:hover{
+    background-color: #001c30;
+}
+#a1{
+    width: 5rem;
+}
+#a2{
+    width: 7rem;
+}
+#a3{
+    width: 9.5rem;
+}
+#a4{
+    width: 7rem;
+}
+#a5{
+    width: 5.5rem;
+}
+ul{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+button{
+    margin: 5px;
+}
+h1{
+    cursor: pointer;
+}
